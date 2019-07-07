@@ -1,0 +1,14 @@
+{
+  "name": "combiner",
+  "version": "0.0.1",
+  "description": "Set of tools to combine streams",
+  "main": "index.js",
+  "author": "Max Kharandziuk <max.kharandziuk@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
